@@ -1,5 +1,3 @@
-package org.cg.stockdemo.HoldingManagement.stockportfoliomonitoringapp.holding.dto;
-
 // src/main/java/org/cg/stockportfoliomonitoringapp/holding/dto/HoldingResponseDTO.java
 package org.cg.stockportfoliomonitoringapp.holding.dto;
 

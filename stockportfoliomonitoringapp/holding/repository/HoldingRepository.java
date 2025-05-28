@@ -2,11 +2,9 @@ package org.cg.stockdemo.HoldingManagement.stockportfoliomonitoringapp.holding.r
 
 // src/main/java/org/cg/stockportfoliomonitoringapp/holding/repository/HoldingRepository.java
 package org.cg.stockportfoliomonitoringapp.holding.repository;
-
 import org.cg.stockportfoliomonitoringapp.holding.model.Holding;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
 import java.util.List;
 import java.util.Optional;
 
